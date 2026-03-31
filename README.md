@@ -106,3 +106,5 @@ Multi-label entries are supported:
 ## License
 
 MIT
+
+**Created by RealmWLS**
